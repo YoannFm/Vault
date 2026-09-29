@@ -12,6 +12,8 @@
 
     You should have received a copy of the GNU Lesser General Public License
     along with Vault.  If not, see <http://www.gnu.org/licenses/>.
+
+    Added by YoannFM (2026) as part of Folia compatibility support.
  */
 package net.milkbowl.vault.scheduler;
 

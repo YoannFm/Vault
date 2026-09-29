@@ -7,6 +7,7 @@
 		<bukkitVersion>1.13.1-R0.1-SNAPSHOT</bukkitVersion>
 		<mainClass>${project.groupId}.${project.artifactId}</mainClass>
 		<api.version>1.7</api.version>
+		<build.number>release</build.number>
 	</properties>
 
 	<!-- Project information -->
